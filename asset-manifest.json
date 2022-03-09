@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/movie-app/static/css/main.3243d7b8.css",
+    "main.js": "/movie-app/static/js/main.696b3e67.js",
+    "static/media/boxicons.svg": "/movie-app/static/media/boxicons.c17adb11d64fadd1cd5a.svg",
+    "static/media/footer-bg.jpg": "/movie-app/static/media/footer-bg.67e95f05e76a8cebf7e2.jpg",
+    "static/media/boxicons.eot": "/movie-app/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/movie-app/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/movie-app/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/movie-app/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "static/media/tmovie.png": "/movie-app/static/media/tmovie.67797e942e59deb68592.png",
+    "index.html": "/movie-app/index.html",
+    "main.3243d7b8.css.map": "/movie-app/static/css/main.3243d7b8.css.map",
+    "main.696b3e67.js.map": "/movie-app/static/js/main.696b3e67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3243d7b8.css",
+    "static/js/main.696b3e67.js"
+  ]
+}
